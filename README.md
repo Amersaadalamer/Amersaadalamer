@@ -1,11 +1,14 @@
-# Hello, I'm [Your Name] 👋
+# Hello, I'm [Amer] 👋
 
-![Profile Banner](![image](https://github.com/user-attachments/assets/4b6ce939-c175-48c5-a89c-1790b4d5f98c)
-)
-)
+
+
 
 ## About Me
-I'm a passionate software developer skilled in creating dynamic web applications. I love tackling challenging problems and continuously learning new technologies.
+Hello! I'm a passionate student at King Saud University, pursuing a degree in Information Systems. I have a keen interest in learning new programming languages and technologies, and I’m always eager to deepen my understanding of coding concepts.
+
+I enjoy tackling challenges and applying my skills to real-world projects. Whether it's developing applications or exploring the latest trends in tech, I strive to expand my knowledge and contribute to exciting projects.
+
+Let’s connect and collaborate!
 
 ### 🛠️ Technologies & Tools
 - **Languages**:  
