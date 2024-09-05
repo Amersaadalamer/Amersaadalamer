@@ -22,8 +22,8 @@ Let’s connect and collaborate!
 
 
 
-## 📫 How to Reach Me
-- 📧 [Email](amersaadalamer@gmail.com)
+## 📫 ### Contact Me
+You can reach me at: [443102874@student.ksu.edu.sa](mailto:443102874@student.ksu.edu.sa)
 
 ## 🎉 Fun Facts
 - I love waffels 🧇
