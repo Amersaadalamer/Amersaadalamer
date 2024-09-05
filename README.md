@@ -1,6 +1,7 @@
 # Hello, I'm [Your Name] 👋
 
-![Profile Banner](https://yourbannerurl.com/banner.png)
+![Profile Banner](![Uploading banner.gif…]()
+)
 
 ## About Me
 I'm a passionate software developer skilled in creating dynamic web applications. I love tackling challenging problems and continuously learning new technologies.
