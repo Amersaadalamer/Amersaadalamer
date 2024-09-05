@@ -29,5 +29,13 @@ You can reach me at: [443102874@student.ksu.edu.sa](mailto:443102874@student.ksu
 - I love waffels 🧇
 - I enjoy communicating and knowing more people. 📚
 
+                   .--.
+                  |o_o |
+                  |:_/ |
+                 //   \ \
+                (|     | )
+                /'\_   _/`\
+                \___)=(___/
+
 ## 📊 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
