@@ -15,7 +15,7 @@ Let’s connect and collaborate!
   ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000)  
   ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)  
   ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff)
-- ![SQL Logo](https://link-to-your-sql-logo.com/logo.png) SQL
+  ![SQL Logo](https://link-to-your-sql-logo.com/logo.png) SQL
   
 - **Tools**:  
   ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=ffffff)  
