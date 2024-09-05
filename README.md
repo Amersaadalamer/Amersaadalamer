@@ -1,6 +1,7 @@
 # Hello, I'm [Your Name] 👋
 
-![Profile Banner](![Uploading banner.gif…]()
+![Profile Banner](![image](https://github.com/user-attachments/assets/4b6ce939-c175-48c5-a89c-1790b4d5f98c)
+)
 )
 
 ## About Me
