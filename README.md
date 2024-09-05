@@ -1,4 +1,4 @@
-# Hello, I'm [Amer] 👋
+# Hello, I'm Amer 👋
 
 
 
